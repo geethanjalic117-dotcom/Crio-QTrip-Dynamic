@@ -1,4 +1,7 @@
 
-const config = { backendEndpoint: "https://qtripdynamic-deepak.onrender.com" };
+const config = { 
+    backendEndpoint:
+    "http://localhost:8082" 
+};
 
 export default config;
